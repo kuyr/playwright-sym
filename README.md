@@ -14,7 +14,6 @@ symphony/
 │   └── workflows/
 │       └── playwright.yml
 ├── tests/
-│   ├── index.js
 │   ├── pages/
 │   │   ├── login.page.js
 │   │   ├── products.page.js
